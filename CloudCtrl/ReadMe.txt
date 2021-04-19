@@ -1,0 +1,4 @@
+1.gstreamer文件夹必须与执行exe同目录，请勿修改里面的内容。
+2.Drivers里的驱动必须安装
+3.函数详情请参数CloudGame.h
+4.CloudCtrlTest程序为简单的演示demo

@@ -1,0 +1,30 @@
+﻿  pch.cpp
+  libGetrtpcmd.cpp
+e:\zyl\cloudgame\cloudgame\libgetrtpcmd.cpp(119): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+e:\zyl\cloudgame\cloudgame\libgetrtpcmd.cpp(150): warning C4101: “errorBuffer”: 未引用的局部变量
+e:\zyl\cloudgame\cloudgame\libgetrtpcmd.cpp(259): warning C4101: “errorBuffer”: 未引用的局部变量
+e:\zyl\cloudgame\cloudgame\libgetrtpcmd.cpp(405): warning C4800: “BOOLEAN”: 将值强制为布尔值“true”或“false”(性能警告)
+e:\zyl\cloudgame\cloudgame\libgetrtpcmd.cpp(431): warning C4800: “BOOLEAN”: 将值强制为布尔值“true”或“false”(性能警告)
+e:\zyl\cloudgame\cloudgame\libgetrtpcmd.cpp(440): warning C4800: “BOOLEAN”: 将值强制为布尔值“true”或“false”(性能警告)
+e:\zyl\cloudgame\cloudgame\libgetrtpcmd.cpp(462): warning C4800: “BOOLEAN”: 将值强制为布尔值“true”或“false”(性能警告)
+e:\zyl\cloudgame\cloudgame\libgetrtpcmd.cpp(484): warning C4800: “BOOLEAN”: 将值强制为布尔值“true”或“false”(性能警告)
+e:\zyl\cloudgame\cloudgame\libgetrtpcmd.cpp(506): warning C4800: “BOOLEAN”: 将值强制为布尔值“true”或“false”(性能警告)
+e:\zyl\cloudgame\cloudgame\libgetrtpcmd.cpp(541): warning C4800: “BOOLEAN”: 将值强制为布尔值“true”或“false”(性能警告)
+  dllmain.cpp
+  CloudGame.cpp
+e:\zyl\cloudgame\cloudgame\cloudgame.cpp(67): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+e:\zyl\cloudgame\cloudgame\cloudgame.cpp(154): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\zyl\cloudgame\cloudgame\cloudgame.cpp(194): warning C4101: “dw”: 未引用的局部变量
+e:\zyl\cloudgame\cloudgame\cloudgame.cpp(534): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+e:\zyl\cloudgame\cloudgame\cloudgame.cpp(576): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+e:\zyl\cloudgame\cloudgame\cloudgame.cpp(801): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+  正在生成代码...
+  json_writer.cpp
+e:\zyl\cloudgame\cloudgame\lib_json\json_writer.cpp(119): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  json_value.cpp
+  json_reader.cpp
+  正在生成代码...
+    正在创建库 E:\zyl\CloudGame\CloudCtrl\x64\Debug\CLOUDGAME.lib 和对象 E:\zyl\CloudGame\CloudCtrl\x64\Debug\CLOUDGAME.exp
+LINK : warning LNK4098: 默认库“LIBCMTD”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  CloudGame.vcxproj -> E:\zyl\CloudGame\CloudCtrl\x64\Debug\CLOUDGAME.dll
+  CloudGame.vcxproj -> E:\zyl\CloudGame\CloudCtrl\x64\Debug\CLOUDGAME.pdb (Full PDB)

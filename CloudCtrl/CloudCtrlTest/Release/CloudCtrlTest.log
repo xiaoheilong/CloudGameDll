@@ -1,0 +1,21 @@
+﻿  CloudCtrlTest.cpp
+  easywsclient.cpp
+easywsclient.cpp(95): warning C4477: “fprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“WCHAR *”
+  easywsclient.cpp(95): note: 请考虑在格式字符串中使用“%ls”
+  easywsclient.cpp(95): note: 请考虑在格式字符串中使用“%lls”
+  easywsclient.cpp(95): note: 请考虑在格式字符串中使用“%Ls”
+  easywsclient.cpp(95): note: 请考虑在格式字符串中使用“%ws”
+easywsclient.cpp(438): warning C4244: “初始化”: 从“uint64_t”转换到“std::size_t”，可能丢失数据
+  easywsclient.cpp(357): note: 参见对正在编译的函数 模板 实例化“void `anonymous-namespace'::_RealWebSocket::sendData<std::_String_iterator<std::_String_val<std::_Simple_types<char>>>>(`anonymous-namespace'::_RealWebSocket::wsheader_type::opcode_type,uint64_t,Iterator,Iterator)”的引用
+          with
+          [
+              Iterator=std::_String_iterator<std::_String_val<std::_Simple_types<char>>>
+          ]
+  json_reader.cpp
+  json_value.cpp
+  json_writer.cpp
+  正在生成代码
+  All 1047 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  CloudCtrlTest.vcxproj -> C:\Users\ygh\source\repos\CloudCtrl\Release\CloudCtrlTest.exe
+  CloudCtrlTest.vcxproj -> C:\Users\ygh\source\repos\CloudCtrl\Release\CloudCtrlTest.pdb (Full PDB)

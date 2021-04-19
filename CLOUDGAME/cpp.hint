@@ -1,0 +1,2 @@
+#define CLOUDGAME_API __declspec(dllexport)
+#define CLOUDGAME_API __declspec(dllimport)

@@ -1,0 +1,18 @@
+﻿  pch.cpp
+  libGetrtpcmd.cpp
+e:\zyl\cloudgame\cloudgame\libgetrtpcmd.cpp(132): warning C4101: “errorBuffer”: 未引用的局部变量
+e:\zyl\cloudgame\cloudgame\libgetrtpcmd.cpp(241): warning C4101: “errorBuffer”: 未引用的局部变量
+  dllmain.cpp
+  CloudGame.cpp
+e:\zyl\cloudgame\cloudgame\cloudgame.cpp(360): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+e:\zyl\cloudgame\cloudgame\cloudgame.cpp(387): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+e:\zyl\cloudgame\cloudgame\cloudgame.cpp(566): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+  正在生成代码...
+  json_writer.cpp
+  json_value.cpp
+  json_reader.cpp
+  正在生成代码...
+    正在创建库 E:\zyl\CloudGame\CLOUDGAME\Debug\CLOUDGAME.lib 和对象 E:\zyl\CloudGame\CLOUDGAME\Debug\CLOUDGAME.exp
+LINK : warning LNK4098: 默认库“LIBCMTD”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  CloudGame.vcxproj -> E:\zyl\CloudGame\CLOUDGAME\Debug\CLOUDGAME.dll
+  CloudGame.vcxproj -> E:\zyl\CloudGame\CLOUDGAME\Debug\CLOUDGAME.pdb (Full PDB)

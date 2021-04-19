@@ -1,0 +1,26 @@
+﻿  easywsclient.cpp
+e:\zyl\cloudgame\cloudctrl\cloudctrltest\easywsclient.cpp(104): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\zyl\cloudgame\cloudctrl\cloudctrltest\easywsclient.cpp(228): warning C4244: “参数”: 从“socket_t”转换到“int”，可能丢失数据
+e:\zyl\cloudgame\cloudctrl\cloudctrltest\easywsclient.cpp(232): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\zyl\cloudgame\cloudctrl\cloudctrltest\easywsclient.cpp(259): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\zyl\cloudgame\cloudctrl\cloudctrltest\easywsclient.cpp(534): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\zyl\cloudgame\cloudctrl\cloudctrltest\easywsclient.cpp(536): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\zyl\cloudgame\cloudctrl\cloudctrltest\easywsclient.cpp(539): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\zyl\cloudgame\cloudctrl\cloudctrltest\easywsclient.cpp(541): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\zyl\cloudgame\cloudctrl\cloudctrltest\easywsclient.cpp(542): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\zyl\cloudgame\cloudctrl\cloudctrltest\easywsclient.cpp(544): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\zyl\cloudgame\cloudctrl\cloudctrltest\easywsclient.cpp(546): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\zyl\cloudgame\cloudctrl\cloudctrltest\easywsclient.cpp(547): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\zyl\cloudgame\cloudctrl\cloudctrltest\easywsclient.cpp(548): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  CloudCtrlTest.cpp
+e:\zyl\cloudgame\cloudctrl\cloudctrltest\cloudctrltest.cpp(155): warning C4267: “+=”: 从“size_t”转换到“BYTE”，可能丢失数据
+e:\zyl\cloudgame\cloudctrl\cloudctrltest\cloudctrltest.cpp(160): warning C4267: “+=”: 从“size_t”转换到“BYTE”，可能丢失数据
+e:\zyl\cloudgame\cloudctrl\cloudctrltest\cloudctrltest.cpp(165): warning C4267: “+=”: 从“size_t”转换到“BYTE”，可能丢失数据
+  正在生成代码...
+  json_writer.cpp
+e:\zyl\cloudgame\cloudctrl\cloudctrltest\lib_json\json_writer.cpp(119): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  json_value.cpp
+  json_reader.cpp
+  正在生成代码...
+  CloudCtrlTest.vcxproj -> E:\zyl\CloudGame\CloudCtrl\x64\Debug\CloudCtrlTest.exe
+  CloudCtrlTest.vcxproj -> E:\zyl\CloudGame\CloudCtrl\x64\Debug\CloudCtrlTest.pdb (Full PDB)

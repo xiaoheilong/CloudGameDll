@@ -1,0 +1,20 @@
+﻿  easywsclient.cpp
+e:\zyl\cloudgame\cloudctrl\cloudctrltest\easywsclient.cpp(95): warning C4477: “fprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“WCHAR *”
+  e:\zyl\cloudgame\cloudctrl\cloudctrltest\easywsclient.cpp(95): note: 请考虑在格式字符串中使用“%ls”
+  e:\zyl\cloudgame\cloudctrl\cloudctrltest\easywsclient.cpp(95): note: 请考虑在格式字符串中使用“%lls”
+  e:\zyl\cloudgame\cloudctrl\cloudctrltest\easywsclient.cpp(95): note: 请考虑在格式字符串中使用“%Ls”
+  e:\zyl\cloudgame\cloudctrl\cloudctrltest\easywsclient.cpp(95): note: 请考虑在格式字符串中使用“%ws”
+e:\zyl\cloudgame\cloudctrl\cloudctrltest\easywsclient.cpp(438): warning C4244: “初始化”: 从“uint64_t”转换到“std::size_t”，可能丢失数据
+  e:\zyl\cloudgame\cloudctrl\cloudctrltest\easywsclient.cpp(357): note: 参见对正在编译的函数 模板 实例化“void `anonymous-namespace'::_RealWebSocket::sendData<std::_String_iterator<std::_String_val<std::_Simple_types<char>>>>(`anonymous-namespace'::_RealWebSocket::wsheader_type::opcode_type,uint64_t,Iterator,Iterator)”的引用
+          with
+          [
+              Iterator=std::_String_iterator<std::_String_val<std::_Simple_types<char>>>
+          ]
+  CloudCtrlTest.cpp
+  正在生成代码...
+  json_writer.cpp
+  json_value.cpp
+  json_reader.cpp
+  正在生成代码...
+  CloudCtrlTest.vcxproj -> E:\zyl\CloudGame\CloudCtrl\Debug\CloudCtrlTest.exe
+  CloudCtrlTest.vcxproj -> E:\zyl\CloudGame\CloudCtrl\Debug\CloudCtrlTest.pdb (Full PDB)
